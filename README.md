@@ -1,11 +1,11 @@
-**#Frontend Application Development Assignment**
+#Frontend Application Development Assignment
 This repository contains a frontend application developed using React.js for the Frontend Application Development assignment.
 
-**##Instructions**
-**###Technology Stack**
+##Instructions
+##Technology Stack
 *React.js
 
-**###Understanding and Testing APIs**
+###Understanding and Testing APIs
 *APIs provided at softwium.com/fake-api/
 *Tested the following APIs using Postman:
     *GET /Books - softwium.com/api/books
